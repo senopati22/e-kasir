@@ -1,1 +1,2 @@
-# e-kasir
+========================= PANDUAN PENGINSTALAN =========================
+1. Sebelum 
